@@ -1,1 +1,1 @@
-script to delete all files
+a script that creates directories
