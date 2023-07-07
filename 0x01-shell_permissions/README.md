@@ -1,1 +1,1 @@
-a script that changes the owner of a file
+a script that will display the StarWars IV
