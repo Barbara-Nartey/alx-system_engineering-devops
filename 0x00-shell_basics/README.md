@@ -1,1 +1,1 @@
-a script that moves all files
+a script to move files
