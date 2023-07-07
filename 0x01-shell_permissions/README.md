@@ -1,1 +1,1 @@
-a script that changes the owner to vincent
+a script to change owner
