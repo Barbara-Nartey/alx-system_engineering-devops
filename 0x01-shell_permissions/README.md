@@ -1,1 +1,1 @@
-a script that changes owner and group
+symbolic link permissions
