@@ -1,1 +1,1 @@
-divide and rule
+The power of love
